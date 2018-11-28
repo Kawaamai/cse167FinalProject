@@ -30,3 +30,6 @@ Create a procedurly generated water based lanscape where you can control a varie
 - Boat controls with interesting camera positions
 - Adding buildings and shrubbery in an aesthetically pleasing manner on top of random terrain.
   - add in plants/buildings under the water? Similar to a flooded environment
+
+### Sketch
+![Initial Sketch](pics/initial_sketch.jpg)
