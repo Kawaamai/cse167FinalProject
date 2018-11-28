@@ -1,4 +1,4 @@
-# CSE 167 Final Project Project 'An Island?'
+# CSE 167 Final Project Project 'Water and Boats'
 
 ## Table of Contents
 - [Blog Post 1](#blog-post-1)  
