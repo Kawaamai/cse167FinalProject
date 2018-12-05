@@ -52,5 +52,5 @@ Worked on terrain generation.
 Note: this is because we were yet unable to render the terrain properly yet.
 
 
-
+![Diamond Square Output](pics/cse167blogpost2.PNG)
 
