@@ -3,6 +3,7 @@
 ## Table of Contents
 - [Blog Post 1](#blog-post-1)
 - [Blog Post 2](#blog-post-2)
+- [Blog Post 3](#blog-post-3)
 
 <a name="blog-post-1"/>
 
@@ -61,7 +62,11 @@ Note: this is because we were yet unable to render the terrain properly yet.
 We are working on seperate features independently and we are hoping to combine our scene tonight.
 
 ### Work done for the week
-We used to have a bug in the diamond-square algorithm and we have fixed it. We are also recoding the terrain generation to use our own function instead of an external library. We can now correctly generate the random terrain.
+Diamond-square algorithm has an inherent design flaw that leads to regular "peaks" or "dimples". Changed to use Perlin noise generated terrain instead, which creates much smoother hills without the same flaws seen in diamond-square.
+
+![terrain1](pics/blog3terrain.PNG)
+![terrain2](pics/blog3terrain2.PNG)
+
 
 We have finished shadow mapping. We have the shader and render logics ready and tested it on a scene.
 ![Shadow Mapping](pics/cse167blogpost3_shadow_mapping.PNG)
