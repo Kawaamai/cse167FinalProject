@@ -67,6 +67,9 @@ Diamond-square algorithm has an inherent design flaw that leads to regular "peak
 ![terrain1](pics/blog3terrain.PNG)
 ![terrain2](pics/blog3terrain2.PNG)
 
+Balls represent possible locations for placing trees
+![trees](pics/blog3treeplacement.PNG)
+
 
 We have finished shadow mapping. We have the shader and render logics ready and tested it on a scene.
 ![Shadow Mapping](pics/cse167blogpost3_shadow_mapping.PNG)
